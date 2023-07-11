@@ -1,3 +1,4 @@
+//Deletion of an element from an array
 #include<stdio.h>
 int main(){
     int a[50], size, i, pos, num;
