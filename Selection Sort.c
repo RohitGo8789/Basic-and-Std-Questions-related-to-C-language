@@ -19,7 +19,7 @@ void SelectionSort(int a[],int n){
 
 
  
-/* Function to print an array */
+ // Function to print an array 
 void printArray(int a[], int n)
 {
     int i;
