@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 int main(){
     int a[50], size, i, pos, num;
     printf("Enter size of array: ");
